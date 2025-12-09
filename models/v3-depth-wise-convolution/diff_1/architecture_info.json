@@ -1,0 +1,13 @@
+{
+  "pruned": false,
+  "upsampling_factor": 8,
+  "use_depthwise": true,
+  "channels": {
+    "F1": 32,
+    "F2": 64,
+    "F3": 128,
+    "F4": 256,
+    "F5": 128,
+    "F6": 64
+  }
+}
