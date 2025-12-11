@@ -1,7 +1,7 @@
 {
   "pruned": false,
   "upsampling_factor": 8,
-  "use_depthwise": true,
+  "use_depth_wise_conv": true,
   "channels": {
     "F1": 32,
     "F2": 64,
