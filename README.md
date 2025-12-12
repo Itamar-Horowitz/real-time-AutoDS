@@ -1,13 +1,4 @@
 # Real-time AutoDS
-
-
-## Repository Structure
-
-This project is divided into the following components:
-
-- **AutoDS** — AutoDS inference and 2D Deep-STORM model training
-- **Dataset**
-
 ---
 
 ## AutoDS
