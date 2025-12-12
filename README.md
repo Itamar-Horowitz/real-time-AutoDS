@@ -1,4 +1,4 @@
-# Real-time AutoDS
+# Realtime AutoDS
 ---
 
 ## Inference Notebook
